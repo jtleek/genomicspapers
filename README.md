@@ -18,7 +18,6 @@ Background on genomics
 * [Central dogma of molecular biology](http://www.nature.com/nature/focus/crick/pdf/crick227.pdf) - by one of the people who discovered the structure of DNA, outlines the main information flow from DNA to proteins (which then flow to phenotypes). 
 * [Next-generation DNA sequencing](http://www.nature.com/nbt/journal/v26/n10/full/nbt1486.html) - introduces the main technology used today to measure DNA, RNA, protein-DNA binding, epigenetic marks like DNA methylation, chromatin folding, etc. 
 * [Ultrafast and memory-efficient alignment of short DNA sequences to the human genome](http://genomebiology.com/2009/10/3/r25) - a paper describing a very fast way to align sequence reads to the genome. One of the first to do this. 
-* 
 
 Background on RNA-seq
 ======================
@@ -37,7 +36,8 @@ Background on Statistics
 * [voom: precision weights unlock linear model analysis tools for RNA-seq read counts](http://genomebiology.com/2014/15/2/R29) - updates the limma framework to sequencing experiments.
 * [edgeR: a Bioconductor package for differential expression analysis of digital gene expression data](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC2796818/) and [Differential expression of sequence count data](http://www.biomedcentral.com/content/pdf/gb-2010-11-10-r106.pdf) are papers on how to do differential expression using read counts, based on similar shrinkage ideas to those in limma. 
 * [Statistical significance for genome-wide studies](http://www.pnas.org/content/100/16/9440.abstract) - introduces the basic concepts behind high-dimensional multiple testing and the false discovery rate in an approachable way. 
-* [Tackling the widespread and critical impact of batch effects in high-throughput data](http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html) - talks about batch effects, one of the most common confounders in genomic studies, and how to address them; related software is the [sva package](http://www.bioconductor.org/packages/release/bioc/html/sva.html). 
+* [Tackling the widespread and critical impact of batch effects in high-throughput data](http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html) - talks about batch effects, one of the most common confounders in genomic studies, and how to address them; related software is the [sva package](http://www.bioconductor.org/packages/release/bioc/html/sva.html). There are other confounders as well, this paper: [http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030161](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030161) talks about some of them. 
+* []
 
 
 Background on software
@@ -45,5 +45,6 @@ Background on software
 
 * [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf) - a paper where Hadley Wickham describes proper organization of data sets that I really like. 
 * [The Leek group guide to data sharing](https://github.com/jtleek/datasharing) - how to organize data you are working on. 
+* [Bioconductor: open software development for computational biology and bioinformatics](http://genomebiology.com/content/5/10/R80) - introduces the Bioconductor project, the most successful project in genomic software development to date. 
 * [Scalable genomics with R and Bioconductor](http://arxiv.org/pdf/1409.2864v1.pdf) - how to do big genomics data in R using [Bioconductor](http://bioconductor.org/). 
 * [The Leek group guide to writing R packages](https://github.com/jtleek/rpackages) - how to make R packages. 
