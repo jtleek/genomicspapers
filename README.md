@@ -55,6 +55,17 @@ Background on software
 * [The Leek group guide to writing R packages](https://github.com/jtleek/rpackages) - how to make R packages. 
 * [Differential gene and transcript expression analysis of RNA-seq experiments with TopHat and Cufflinks](http://www.nature.com/nprot/journal/v7/n3/abs/nprot.2012.016.html) - protocols for using Cufflinks and Tophat, two commmon pieces of software we use. 
 
+Papers from the Leek group you should read
+=====================
+
+Obviously [all of them](http://jtleek.com/papers/)
+
+* [Sequencing technology does not eliminate biological variability](http://biostat.jhsph.edu/~jleek/papers/seqvar.pdf) - a paper describing the sources of variability in genomic experiments and the importance of different types of replicates.
+* [Differential expression analysis of RNA-seq data at single-base resolution](http://biostatistics.oxfordjournals.org/content/early/2014/01/06/biostatistics.kxt053.short) - proposes a new approach to finding differentially expressed regions in the human genome. 
+* [Flexible analysis of transcriptome assemblies with Ballgown](http://biorxiv.org/content/biorxiv/early/2014/09/05/003665.full.pdf) - describes a statistical backend for popular transcript assembly algorithms. 
+
+
+
 
 A partial set of papers to round out your knowledge
 =====================
