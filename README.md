@@ -28,3 +28,4 @@ Background on software
 * [Tidy data](http://vita.had.co.nz/papers/tidy-data.pdf) - a paper where Hadley Wickham describes proper organization of data sets that I really like. 
 * [The Leek group guide to data sharing](https://github.com/jtleek/datasharing) - how to organize data you are working on. 
 * [Scalable genomics with R and Bioconductor](http://arxiv.org/pdf/1409.2864v1.pdf) - how to do big genomics data in R using [Bioconductor](http://bioconductor.org/). 
+* [Rise and Demise of Bioinformatics? Promise and Progress](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1002487) - an insightful look at the history of bioinformatics, and a glimpse into the near future.
