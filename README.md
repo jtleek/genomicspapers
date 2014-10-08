@@ -43,6 +43,7 @@ Background on Statistics
 * [Statistical significance for genome-wide studies](http://www.pnas.org/content/100/16/9440.abstract) - introduces the basic concepts behind high-dimensional multiple testing and the false discovery rate in an approachable way. 
 * [Tackling the widespread and critical impact of batch effects in high-throughput data](http://www.nature.com/nrg/journal/v11/n10/full/nrg2825.html) - talks about batch effects, one of the most common confounders in genomic studies, and how to address them; related software is the [sva package](http://www.bioconductor.org/packages/release/bioc/html/sva.html). There are other confounders as well, this paper: [http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030161](http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.0030161) talks about some of them. 
 * [Statistical inferences for isoform expression in RNA-Seq](http://bioinformatics.oxfordjournals.org/content/25/8/1026.full.pdf) - a very useful paper for defining a model or isoform expression in RNA-seq. 
+* [Gene set enrichment analysis made simple](http://www.ncbi.nlm.nih.gov/pubmed/20048385) - a paper describing a simple approach to identifying gene sets that are enriched for differential expression. 
 
 
 Background on software
