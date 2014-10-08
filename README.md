@@ -1,4 +1,4 @@
-The Leek group guide to genomics papers (WARNING: WORK IN PROGRESS!!!!)
+The Leek group guide to genomics papers 
 ==============
 
 When I was a student, my advisor [John Storey](http://www.genomine.org/) made a list of papers for me to read on nights and weekends. That list was incredibly helpful for a couple of reasons. 
@@ -61,3 +61,4 @@ A partial set of papers to round out your knowledge
 
 * [PHYLOGENIES FROM MOLECULAR SEQUENCES: INFERENCE ANDRELIABILITY ](http://www.annualreviews.org/doi/pdf/10.1146/annurev.ge.22.120188.002513) - a slightly older review of phylogenetic inference by one of the real titans in the area. 
 * [On Differential Variability of Expression Ratios: Improving Statistical Inference about Gene Expression Changes from Microarray Data](http://online.liebertpub.com/doi/abs/10.1089/106652701300099074) - probably the first real description of empirical bayes approaches for genomics data. 
+* [The allelic architecture of human disease genes: common disease-common variant...or not?](http://www.ncbi.nlm.nih.gov/pubmed/12351577) - a discussion of whether common genetic variants lead to common diseases. 
