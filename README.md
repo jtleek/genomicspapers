@@ -7,7 +7,7 @@ When I was a student, my advisor [John Storey](http://www.genomine.org/) made a 
 * It was expertly curated, so it filtered a lot of papers I didn't need to read
 * It gave me my first set of ideas to try to pursue as I was reading the papers
 
-I have often thought I should make a similar list for folks who may want to work wtih me (or who want to learn about statistial genomics). So this is my attempt at that list. I've tried to separate the papers into categories and I've probably missed important papers. I'm happy to take suggestions for the list, but this is primarily designed for people in my group so I might be a little bit parsimonious. 
+I have often thought I should make a similar list for folks who may want to work wtih me (or who want to learn about statistical genomics). So this is my attempt at that list. I've tried to separate the papers into categories and I've probably missed important papers. I'm happy to take suggestions for the list, but this is primarily designed for people in my group so I might be a little bit parsimonious. 
 
 
 
