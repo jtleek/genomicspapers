@@ -1,4 +1,4 @@
-sdfsdf The Leek group guide to genomics papers 
+The Leek group guide to genomics papers 
 ==============
 
 When I was a student, my advisor [John Storey](http://www.genomine.org/) made a list of papers for me to read on nights and weekends. That list was incredibly helpful for a couple of reasons. 
