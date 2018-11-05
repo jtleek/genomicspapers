@@ -17,7 +17,7 @@ Background on genomics
 * [Molecular structure of nucleic acids: A structure for deoxyribose nucleic acid](http://www.nature.com/scitable/content/molecular-structure-of-nucleic-acids-a-structure-13997975) - the paper describing the structure of DNA. Was the very beginning of the genomics revolution. The authors won a Nobel Prize. They used data from [Rosalind Franklin](http://www.goodreads.com/book/show/326851.Rosalind_Franklin) to do it. 
 * [Central dogma of molecular biology](http://www.nature.com/nature/focus/crick/pdf/crick227.pdf) - by one of the people who discovered the structure of DNA, outlines the main information flow from DNA to proteins (which then flow to phenotypes). 
 * [Next-generation DNA sequencing](http://www.nature.com/nbt/journal/v26/n10/full/nbt1486.html) - introduces the main technology used today to measure DNA, RNA, protein-DNA binding, epigenetic marks like DNA methylation, chromatin folding, etc. 
-* [Ultrafast and memory-efficient alignment of short DNA sequences to the human genome](http://genomebiology.com/2009/10/3/r25) - a paper describing a very fast way to align sequence reads to the genome. One of the first to do this. 
+* [Ultrafast and memory-efficient alignment of short DNA sequences to the human genome](https://genomebiology.biomedcentral.com/articles/10.1186/gb-2009-10-3-r25) - a paper describing a very fast way to align sequence reads to the genome. One of the first to do this. 
 * [A gene expression barcode for microarray data](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3154617/) - a paper describing the way that genes are expressed ("turned on") or not expressed ("turned off") in microarray data. 
 
 Background on RNA-seq
